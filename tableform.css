@@ -11,7 +11,7 @@ body {
 	}
 	
 	li {
-		list-style-image: url("/pencil.png");
+		list-style-image: url("pencil.png");
 		line-height: 1.6em;
     text-align: center;
     font-style: italic;
